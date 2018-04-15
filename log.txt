@@ -1,0 +1,733 @@
+['article']
+['article', '\xe5\xa5\xb3\xe7\x94\x9f\xe5\x96\x9c\xe6\xac\xa2\xe4\xbd\xa0\xe7\x9a\x84\xe8\xa1\xa8\xe7\x8e\xb0']
+11.txt
+title is:  女生 喜欢 你 的 暗示 表现 ， 男人 们 别 傻 等 了 ， 主动出击 吧 ！
+6246.txt
+title is:  女生 喜欢 你 的 十个 表现
+945.txt
+title is:  【 女生 喜欢 男生 的 表现 一 ： 模仿 你 的 动作 和 说话 的 方式 】
+1178.txt
+title is:  Chris 教 你 ： 如何 判断 女生 是否 喜欢 你 ， 那些 女生 喜欢 你 的 表现
+2978.txt
+title is:  女人 喜欢 男人 的 几大 表现
+60.txt
+title is:  怎样 让 一个 女生 喜欢 上 你 ， 七个 表现 告诉 你 最 真实 的 答案
+134.txt
+title is:  男生 们 注意 啦 女生 喜欢 你 的 表现 有 哪些
+89.txt
+title is:  小男生 必须 要 知道 的 女生 喜欢 你 的 4 个 表现 ！
+1482.txt
+title is:  女生 喜欢 你 的 9 大 表现
+['article', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xbf\xbd\xe5\x88\xb0\xe5\x96\x9c\xe6\xac\xa2\xe7\x9a\x84\xe5\xa6\xb9\xe5\xad\x90']
+5758.txt
+title is:  如何 追 自己 喜欢 的 女孩子
+4848.txt
+title is:  如何 追 到 自己 的 喜欢 的 男生 呢 ？
+5786.txt
+title is:  如何 才能 追 到 自己 喜欢 的 女生 ？
+471.txt
+title is:  跪 舔 就 能 追到 妹子 ？
+3673.txt
+title is:  一篇 帖子 让 你 彻底 明白 ： 为什么 你 追 不到 喜欢 的 妹子 ！
+5585.txt
+title is:  如何 快速 泡到 喜欢 的 女生
+5812.txt
+title is:  如何 才能 追 到 喜欢 的 女生 ？
+28.txt
+title is:  如何 追 喜欢 女孩子 的 技巧
+['article', '\xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88\xe6\x88\x91\xe6\xb2\xa1\xe6\x9c\x89\xe5\xa5\xb3\xe6\x9c\x8b\xe5\x8f\x8b']
+new594.txt
+title is:  【 翻译 】 你 能 把 女 “ 朋友 ” 变为 “ 女朋友 ” 吗 ？
+new1200.txt
+title is:  国行 三星 note7 都 爆炸 了 ， 你 为什么 还是 没有 女朋友
+new2.txt
+title is:  恋爱 技巧 ： 双十 一 摆脱 单身 狗 的 秘密 ， 没有 女朋友 的 进 !
+new118.txt
+title is:  陌 陌交 女朋友 守则
+new297.txt
+title is:  屌丝 没有 资格 找 女票
+new540.txt
+title is:  她 是 “ 女朋友 ” ， 还是 女 “ 朋友 ” ？ （ 转 ）
+new55.txt
+title is:  你 为什么 没有 女朋友 ， 那 是因为 你 不会 和 女生 聊天 ！
+new123.txt
+title is:  怎么 追 女朋友
+new257.txt
+title is:  你 没有 女朋友 ， 是因为 你 懒
+articles
+title 女生喜欢你的暗示表现，男人们别傻等了，主动出击吧！
+url http://www.puahome.com/bbs/pua-110128-1-1.html
+text 
+来看看妹子喜欢男生都会有哪些暗示
+女生喜欢你的表现一：精心打扮
+如果一个女生和你见面前，精心的打扮自己，而且还洗了头。说明她非常重视跟你的约会，你在她心中的位置极高，极其重要!
+女生喜欢你的表现二：打听你的消息
+她会向身边的朋友经常提及你，打听你的消息。
+女生喜欢你的表现三：时刻关注你
+她会关注你的一言一行。无论你说什么都对，开什么玩笑都好笑，你喜欢做的喜欢吃的，她都会去学。
+女生喜欢你的表现四：制造和你独处的机会
+你加班她也加班，你经常吃的餐馆，她也经常出现，你回家，刚好她也顺路...
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/11.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/11.txt
+title 女生喜欢你的十个表现
+url http://www.puahome.com/bbs/pua-80605-1-1.html
+text 
+说话暧昧
+比如说，一群青春男女从KTV唱歌回来的路上，这时有一位女孩子突然对你说：“你能帮我把这包牛奶捂热吗?”这时的男生一定很纳闷，心想：为什么叫我给她捂热?再说了，用手能捂热吗？其实这已经是女孩子在有意向你表示暧昧了。
+主动搭讪
+嘘寒问暖
+给大家一个例子，比如说：“你怎么就穿一件单衣啊?这么冷的天，你怎么这么叫人不省心啊?”这句话，看似是嘘寒问暖，实则是对你无限的关怀与爱护，这样的话只有妻子对丈夫说，她现在对你说了，里面暗含的潜台词，自然不言而喻。
+无中生有
+比如突然有女人对你问道，说：“你那天借给我的那本书什么时候还给你啊?我已经快看完了，不过还是想看下去，你还有没有别的什么书，像这样的类似别的什么的，都可以的。”这样的话，绝对让你丈二摸不着头脑。
+神情恍惚
+当你看见有人想和一个女人说话时，她半天没有反应过来，正是此因作怪。
+关注打听
+当你的朋友告诉你，经常有人向我询问你的生活，打听你的信息和情况的时候，如果对方是个男人，可能说明他想打你的坏主意，破坏你。但是如果是一个女人，柔弱女子的话，那么你的担心是多余的。那么这只有一种可能：她开始已经喜欢上你了。只是这样的喜欢还不太好说破，暗恋的前奏。
+抛眉挤眼
+脸红害羞
+赠衣送物
+当面撒娇
+撒娇的女人最容易让男人有怜悯之心，这是女人最让男人不能拒绝的方式。比如说：“咱们去吃饭吧!”然后带上一些嗲声奶气的语气词。再不然，如果你拒绝，她就拉着你的衣服角，摆来摆去，说：“去嘛!去嘛!就一会儿的!”
+        
+  
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe7\xba\xa6\xe4\xbc\x9a', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\xa1\x88\xe4\xbe\x8b', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/6246.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/6246.txt
+title 【女生喜欢男生的表现一：模仿你的动作和说话的方式】
+url 女生喜欢男生的四种表现：
+text 你爆料一件糗事，她也积极地爆料她的生活，这是女生对你有兴趣的表现。
+【女生喜欢男生的表现三：她触碰你，靠近你，身体接触的次数增加】
+不一定是一步步走近，她身体倾向你，膝盖面对你等等，都是正在靠近你的表现。尽管如此，女性对男性主动的身体接触还是抱有戒心，所以一定要坚守好“被动”原则。
+【女生喜欢男生的表现四：和你打闹、挑战你、甚至取笑你】
+对于女生来说取笑实际上是测试男人态度的一种方式，这也恰恰证明了女生想进一步了解你。
+
+说了这么多，来给大家带来一个小技巧可以瞬间让她对你的兴趣度提升。
+第一步：给她拍照
+第二步：先不让她看照片 ，当她有些着急的时候给她看一下照片然后立刻收走，当她快要崩溃的时候，再给她看一张小宠物的照片，然后说搞错了，再传给她你拍的照片。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/945.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/945.txt
+title Chris教你：如何判断女生是否喜欢你，那些女生喜欢你的表现
+url http://www.puahome.com/bbs/pua-77205-1-1.html
+text 
+一：女生和你聊天很专心，不做其他事     
+二：女生愿意和你有眼神接触     
+三：女生和你出来时，会特别注重自己的形象     
+四：女孩对你说：有很多人追我呢     
+当一个女孩对男生说：有很多人追我，约等于：你怎么还不抓紧呀，大笨蛋，再不抓紧，姐就被人追走喽。
+五：和你在一起，很淑女、羞羞哒      
+六：愿意和你有肢体接触     
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/1178.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/1178.txt
+title 女人喜欢男人的几大表现
+url http://www.puahome.com/bbs/pua-80455-1-1.html
+text 
+1、变得爱漂亮，时常对你抛媚眼，很自然地对你撒娇。
+2、出现情敌时，神情不太自然，甚至恍惚不定。
+3、对于你说的话或者要求乖乖服从或者故意对抗，当你有困难的时候总是竭尽全力地帮助你。
+4、十分重视你的行踪，常常向你的朋友打听你的去向。自己出去玩的时候，特意将行踪告诉他，直接或者间接地邀他同往。
+5、回复短信的速度变快，内容变长。
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe7\xba\xa6\xe4\xbc\x9a', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/2978.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/2978.txt
+title 怎样让一个女生喜欢上你，七个表现告诉你最真实的答案
+url http://www.puahome.com/bbs/pua-104505-1-1.html
+text 
+女生喜欢你的7个表现：
+1、模仿你的动作和说话的方式
+模仿是奉承最好的表现形式。摆出和你相似的姿态，或是在对话中模仿你的用词，都是在心里对你另眼相看的体现。
+2、主动找话题，主动投入你的话题
+你爆料一件糗事，她也积极地爆料她的生活，这是女生对你有兴趣的表现。
+3、她触碰你，靠近你，身体接触的次数增加
+不一定是一步步走近，她身体倾向你，膝盖面对你等等，都是正在靠近你的表现。尽管如此，女性对男性主动的身体接触还是抱有戒心，所以一定要坚守好“被动”原则。
+4、和你打闹、挑战你、甚至取笑你
+对于女生来说取笑实际上是测试男人态度的一种方式，这也恰恰证明了女生想进一步了解你。
+5、说些任性的话向男性撒娇
+有时女性任性传达的可能是一种好感。但是面对一些过分的要求，要认真考虑一下是否被对方当成了“老好人”，可能她撒娇的对象不止你一个。
+6、只向你展现自己柔弱的一面
+特别是一般比较要强的女性，能让她尽现柔弱一面的男性对她来说一定很特别。这时如果男性温柔地安慰一句：“我知道你一直很努力。”一定会令她对你更倾心。
+7、半夜打来电话聊很长时间
+女性在午夜打来电话就是在表明她的心意。所以只要能做个好听众，你同她的关系就会更进一步。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/60.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/60.txt
+title 男生们注意啦女生喜欢你的表现有哪些
+url http://www.puahome.com/bbs/pua-108210-1-1.html
+text 
+1. 对于你她一直都会有时间。
+2. 见到你就对你笑
+3. 对你说个不停
+你的话她都很认真的听，并且在听的过程中会和你互动，说一些自己的意见。同时她也会对你说个不停。
+4. 聊天的时候中断了还是会回来
+喜欢你的人，可能会对你说：“我去洗澡了。”但是她洗完之后会告诉你她洗完了，如果是不喜欢你的人对你说：“我去洗澡了。”然后就没有然后了....
+5. 会为你打扮
+6. 向你展现自己柔弱的一面
+特别是一般比较要强的女性。这时如果男性温柔地安慰一句：“我知道你一直很努力。”一定会令她对你更倾心。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/134.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/134.txt
+title 小男生必须要知道的女生喜欢你的4个表现！
+url http://www.puahome.com/bbs/pua-109509-1-1.html
+text 
+第一步：给她拍照
+第二步：先不让她看照片 ，当她有些着急的时候给她看一下照片然后立刻收走，当她快要崩溃的时候，再给她看一张小宠物的照片，然后说搞错了，再传给她你拍的照片。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x81\x8b\xe7\x88\xb1', '\xe8\x81\x8a\xe5\xa4\xa9', '\xe7\xba\xa6\xe4\xbc\x9a', '\xe5\x88\xb6\xe9\x80\xa0\xe6\x83\x8a\xe5\x96\x9c', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/89.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/89.txt
+title 女生喜欢你的9大表现
+url http://www.puahome.com/bbs/pua-94790-1-1.html
+text [正文
+1、她也许经常会带一些美食给你品尝。
+2、看你的眼神特别迷人和温柔。
+3、喜欢和你待在一起的时光，创造和你在一起的机会。
+4、说话的语气明显与众不同，特别是强势女人用温柔的语气。
+5、和你分享她的家庭或个人生活。
+6、刻意让你独享她的性感风情和穿着。
+7、时常用暗示语言挑逗试探，征求你对她个人的印象看法。
+8、用自己特殊的部位接触男人身体。
+9、用行为进行实质身体诱惑。
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xa1\xa8\xe7\x99\xbd', '\xe7\xba\xa6\xe5\x87\xba\xe6\x9d\xa5', '\xe7\xba\xa6\xe4\xbc\x9a', '\xe5\xa4\x87\xe8\x83\x8e', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe5\x88\xa4\xe6\x96\xad']
+classes 女生喜欢你的表现
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/1482.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/女生喜欢你的表现/1482.txt
+title 如何追自己喜欢的女孩子
+url http://www.puahome.com/bbs/pua-83884-1-1.html
+text 
+如何追自己喜欢的女孩子？
+
+不要认为只要一味的对女孩好，女孩也就会对你好，就会成为你的女朋友，也会为你付出一切。理想是丰满的，现实是骨干的。抱着这种想法生活的男孩，往往会吃大亏。想要让女孩听你的，紧张你，那么最为关键的一个步骤就是要调动她们的想象力。当我们用讨好的策略讨女生欢心时，适时的抽身离开，就可以起到以退为进的效果。
+
+在这段时间里，可以让自己的脑袋冷静一下，不要被感情冲昏头脑。这时女孩子往往就会开始感觉到不安，“蛋白质”性格的她们就会开始胡思乱想，他是不是不喜欢我了?是不是我那里做错了?是不是他喜欢上别人了?那么我是不是应该对他好一点?为什么他不出现我就想他，是不是我爱上他了?一旦她对你产生了挂念，那么你在她心中的地位就上升了，那么你就离真正走进她内心深处又进了一步。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\x96\xb9\xe6\xb3\x95', '\xe5\x9d\x91\xe7\x82\xb9']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5758.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5758.txt
+title 如何追到自己的喜欢的男生呢？
+url http://www.puahome.com/bbs/pua-86290-1-1.html
+text 
+丰富自己的角色身份，不仅仅是女朋友、妻子、母亲、情人，也要是红颜知己。给他需要的各种安慰，成为他生活中不能缺少的人。
+
+不要一直限制男人的自由，不要断绝他的爱好，不要让他为了你改掉以前的生活习惯和方式。
+　　
+做你自己，不要企图通过改变外表甚至个性，来让男人着迷或征服他们。真正爱你的男人只希望你是自然而有气质的。
+　　
+不要苦苦追问他的过去。男人现在选择了你，你就是他现在喜欢的女人，甚至是想共度一生的人。放宽心，他才会更疼你。
+
+让他感觉到，你不是“一旦拥有就别无所求”。在你心目中他没有特权，没有取得“固定的车位”，也没有“专用通道”。所谓得不到才是最好的，这样的感觉会让男人持续保持对你的好奇。
+
+允许他交异性朋友，让他有自己的圈子。你也要学会交流，成为双方不能失去的一份子。如果你不放心，那就和他的朋友们成为朋友。
+
+做到不靠“乞怜”维生。不管你是大女人还是小女人，都要有独立的思维。
+
+事先定好固定的时间，只有彼此，不做别的事，享受只有彼此的浪漫时光，让他在这场约会中感受你的温柔和体贴。
+
+不要为了一点点的虚荣和攀比，让他为你买这买那。男人是需要疼女人，但在他为你花钱买东西的时候，你又是怎样回馈他的呢？
+
+tags ['\xe5\xa5\xb3', '\xe6\x81\x8b\xe7\x88\xb1\xe4\xb8\xad', '\xe5\xa9\x9a\xe5\x90\x8e', '\xe7\xbb\xb4\xe6\x8a\xa4\xe5\x85\xb3\xe7\xb3\xbb', '\xe8\x87\xaa\xe8\xba\xab\xe5\xbb\xba\xe8\xae\xbe', '\xe6\x96\xb9\xe6\xb3\x95']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/4848.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/4848.txt
+title 如何才能追到自己喜欢的女生？
+url http://www.puahome.com/bbs/pua-80383-1-1.html
+text 
+男人的最大魅力在于事业有成，要让女生觉得你是个有上进心的人。你一定要告诉mm，你对未来充满信心，你不满足于现状，并且你已经有了长远的计划。
+
+要把关系定位成“朋友”，本来是“普通朋友”，你希望成为“好朋友”，有品位的还可以要求对方成为“红颜知己”什么的，总之千万不要说“追你”，那么女孩子也就更没机会“拒绝”你。
+
+忽冷忽热、欲擒故纵。最关键的是不能着急，不要让人家一眼就能看出你追女孩。如果你开始就摆出志在必得的姿势出来，基本上会被立刻闷回去。
+
+可以搜集情报，想办法把守株待兔变成一场邂逅；也可以装做漫不经心的找出最最充足的理由邀请对方和你一起做什么事。
+
+送人家东西就是在施加压力，人家会觉得欠你的。倒不妨请女孩子一起消费，比如说找好的餐厅吃饭，或者找贵的地方一起玩什么的
+
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\x96\xb9\xe6\xb3\x95', '\xe5\x9d\x91\xe7\x82\xb9', '\xe8\x87\xaa\xe8\xba\xab', '\xe5\xbb\xba\xe8\xae\xbe', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3\xc2\xa0']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5786.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5786.txt
+title 跪舔就能追到妹子？
+url http://www.puahome.com/bbs/pua-98648-1-1.html
+text 
+跪舔就能追到妹子？
+
+跪舔的屌丝不能追到女朋友。急功近利，太过刻意，只会让你和你喜欢的女生，距离越来越远。
+
+做个坏男孩，去对女人好；不要装作好男人，去对女人坏。有些小技巧能让男生尝到点甜头，比如电话不急着接、故意迟到等等，这能在一两次互动中变得有主动权。
+
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x95\x85\xe4\xba\x8b', '\xe5\xae\x9e\xe4\xbe\x8b\xc2\xa0']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/471.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/471.txt
+title 一篇帖子让你彻底明白：为什么你追不到喜欢的妹子！
+url http://www.puahome.com/bbs/pua-91815-1-1.html
+text 
+要增加有效的交流。有效果的交流越多，那么你们的关系就越近。什么是有效呢，那就是喜欢。
+欲擒故纵和女孩子互动的方法的核心意义是在于制造快乐！如果说，你用这样的方法没有制造快乐，而是增添了他人的烦恼，痛苦，我想你赶紧别用了。
+你去学习恋爱的技巧，是为了让我们成为一个让别人喜欢的人。知识并不能让你去得到一个人，也得不到他人的尊重。知识是用来修正你，帮助你能够有一个清晰的认识来指导、改变自己。如果把这些恋爱的方法当成了得到他人、剥夺他人的工具，从而获得自己想要的关系。这就叫意淫，活在自己世界里的意淫。
+这个女孩子和你约会之后，你突然把人家冷落了，表现出一副无所谓的态度，隔三差五去跟人家聊两句。换作是你你什么感受？女生因为感觉到你喜欢她，才会出来跟你约会，可发现她对你越有好感，你越装着，端着。
+你这样就等于是自己把这段关系给玩砸了。本来是你们互相喜欢，结果变成了她讨厌你，你也不喜欢她了。因为你看到女孩子对你也开始冷淡，你心中也起了疙瘩啊，还能用最初的热情去回应她吗？
+没心没肺的人喜欢用投机取巧的方式获得短暂的理想关系。而走心的人就要去学习以心换爱的方法。每个人的阶段不一样，没心没肺不代表这个人不好，只能说明他们还在痛苦期，只愿意逃避。回避痛苦的时候我们是死心的一种状态，就像现在很多男玩家、女玩家一样，表面好像玩世不恭活得潇洒，实际上他们多半是不敢在触碰感情了，或者是处理不好感情关系，所以他们宁愿不去触碰心底最真实的感受。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x90\xad\xe8\xae\xaa', '\xe8\x81\x8a\xe5\xa4\xa9', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe5\xa4\x84\xe7\x90\x86']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/3673.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/3673.txt
+title 如何快速泡到喜欢的女生
+url http://www.puahome.com/bbs/pua-72364-1-1.html
+text 
+一个所有天生好手，和高价值人所共有的心态：真实的表达自己，喜欢我的人就让她放马过来吧
+
+用自己的性格和价值来筛选女人。一个男人老是因为女人的反应而改变你自己的行为，从根本上来说，这是一个没有原则，也没有价值的男人。
+
+
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe8\xaf\xaf\xe5\x8c\xba', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe8\x87\xaa\xe8\xba\xab\xc2\xa0']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5585.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5585.txt
+title 如何才能追到喜欢的女生？
+url http://www.puahome.com/bbs/pua-81121-1-1.html
+text 
+如何才能追到喜欢的女生？
+
+1.面皮厚，死缠着你欢心的女子不放，又不使其讨厌。说想说的话，做想做的事，不羞羞答答，理直气壮的说你爱她。不为自己的胡搅蛮缠羞耻，不羞于为她跑腿，捏脚，倒洗脚水。
+
+2.功夫深，试把你喜欢的女人当成坚不可摧但终将被你摧毁的堡垒，兢兢业业，埋头苦干，任劳任怨，不计报酬。女人的心肠总还是软的，一天不行一个月，一个月不行一年，功到自然成。
+
+3.嘴巴甜，说好听的，甜言蜜语，甜而不腻。让她觉得你是世界上最忠实的雄性。投其所好，查言观色，说她想听的，给她想要的。
+
+4.以退为进，跟对方来个〃结拜〃，也就是干姐干弟或是干妹干哥的关系，这样的关系想必对方并不太会拒绝是吧？如此一来，进可攻退可守，就算找对方出去也方便的多，对方也不太容易逃避。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\x96\xb9\xe6\xb3\x95', '\xe5\xae\x9e\xe6\x93\x8d', '\xe8\x87\xaa\xe8\xba\xab', '\xe5\xbb\xba\xe8\xae\xbe', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3\xc2\xa0']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5812.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/5812.txt
+title 如何追喜欢女孩子的技巧
+url http://liaotian.puahome.com/5360
+text 
+追喜欢女孩子的技巧
+
+　　建设自身形象！穿衣服要整洁、注意细节、追求精英元素!
+ 
+　　制造情绪上的同步共振!比如约好见面，你快到的时候可以偷偷给她打个电话说：“哎呦，不好意思，临时有事到不了了”这时女孩会抓狂，然后你拿朵玫瑰花出现在她的面前!
+ 
+　　社交关系中的高价值展示！一定要注意细节，社交关系中的高价值展示包括你的仪表、仪容，要给她以及她身边的留下好的口碑才能让你的高价值被说出来。
+  
+　　不要过分‘追求’女生。要想和女生在一起，靠得不是追求，而是吸引!女人永远都喜欢比自己“强”的男人，而你用各种方法去追求她，反而降低了自己的框架。
+
+    其实吸引女人的内心强大的框架，是你的自信、幽默和特长等，而不是苦苦的用各种方法去追她，求她!追女孩前要调整自己的心态，告诉自己，我比她优秀，她不选我是她的损失。 
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\x96\xb9\xe6\xb3\x95', '\xe8\x87\xaa\xe8\xba\xab', '\xe5\xbb\xba\xe8\xae\xbe', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3\xc2\xa0']
+classes 如何追到喜欢的妹子
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/28.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/如何追到喜欢的妹子/28.txt
+title 【翻译】你能把女“朋友”变为“女朋友”吗？
+url http://www.puahome.com/bbs/pua-2045-1-1.html
+text 
+    男人被困在“友谊区”，最关键的原因是他在与这个女人第一次交往时所表现、所展示后的结果。与相信能够征服女人、能够调情且发展成床上关系的心态相比，陷在友谊区的男人最常犯的典型错误是紧张，自我怀疑。他们会假装对成为朋友最感兴趣，隐藏自己的性渴望，而且以他自己的方式展示出一个非常“好”，有礼貌得围绕在她身边的男人。这种简单的事实是，他通过“像”一个朋友，而不是“像”一个情人或男友的方式把自己定位在友谊区。女人没有把他放在友谊区，他自己这么干了！
+改变糟糕的第一映像
+    首要之要
+    你绝对绝对不能直截了当告诉她你想要把这段友情向上升级，除非你完全确定她已经被你吸引，而且她想做你的女朋友。如果她只是“喜欢”你做她朋友，觉得你是一个好男人，那是远远不够的。如果她并没有感觉到性的吸引，那么她会拒绝你想把友情升华为爱情的尝试。所以，除非你想冒险失去她去和她幽会，那就管好你的嘴，别做的太过分，直到你确定她被你吸引了。
+    你当然不能直接问她“你是不是被我的性感吸引了？”那太直接而且破坏了你俩之间的性张力（sexual tension）。你应该使用3个技巧，根据她的回答和行动来得出结论。
+    1.       得到她对于其他女人的看法
+        当你们到公共场合时，指出一些性感的美女，并询问她的看法。问她：“那女生好漂亮”。如果她同意你的看法，而且承认她们确实很漂亮，那你可以假装故意的多看她们几眼。如果她吃醋或不高兴，那是因为她意识到那些女人吸引到了你，并且为失去你而担忧。
+        另一方面，如果她在找那些那些美女的缺点，说她们并不性感并不诱惑，这样很好，她并不想和别的女人分享你。所以，你可以和她说：“你是想把我留给你自己呀~”。根据她接下来的反应，你可以判断出她是否对你产生了兴趣。
+    2.       和她调情之类的
+        当她和你一起约会，并且看起来很正点的时候，告诉她“你真好看”。如果她的表现是很高兴，害羞或反过来调戏你，那太好了，你知道她被吸引了！另一方面，你感觉到她被你突然来袭的调戏吓了一跳，你就要赶紧停下来，开个玩笑，转移话题，笑起来，轻松愉快的说：“拜托，认真点，我说的是这件衣服很好看，可没有说你，你穿上倒有点乡下的范儿，不过也无所谓了。好啦，你想点什么菜？”
+    3.       为了她而做些什么
+        当然，她的生活中出现了困难而棘手的状况，或者很重要的事情时，做个好男人，而且为了她做点什么。但是，不要变得永远随时随地随叫随到。在你的生活中，除了她以外，多设置几个目标。这样她有时突然想要你做什么时，你可以很自然的说：“其实，今晚我还要做我的项目。我们周三再一起做吧。”
+        如果你想让她晚上不停在想怎样才能成为你的女友而失眠，偶然得让她知道你还在和其他女人约会。更好的效果是，她在打电话约你时，告诉她：“呃.. 我答应了我的朋友，安妮，我明天和她见面。但我周二有空，我们可以那时再聊。”
+        在她意识到你的生活中还有其他女人，而且你的生活除了她还有其他内容，她会感到紧迫和压力。然而，如果你从来都是在她想聊的时候，她想见的时候，她想要什么的时候百依百顺，她不会感到兴奋，不会想要和你发生什么。她会觉得就算她出去度假一年，回来的时候你仍在痴痴守候。这不是女人希望男人去做的。她想要去做那个守在电话旁，希望能拥有你更多时间的人。对于女人来说，这个位置才是让她们兴奋的。
+    4.       她希望你做她的男人，不是她的女朋友
+        许多男人在试图表现出可爱和温柔时犯了错，变得和她的女朋友一样。他们还觉得应该在交流中充满八卦，情绪化和戏剧感，就像她的女朋友一样。你要做她的男人！对于性吸引来说，需要的是男性的特质和精神。如果你表现出像女孩一样，或是中性的感觉，她是不会产生出除朋友外一丝一毫的兴趣。她希望你强壮、自信、坚定，这是再自然不过的事情。你是她的男人，要展现出这一点！对她秀出你男性性感的一面。
+    5.       知道该放弃的时候放弃
+        如果你尝试了以上建议，并发现她就是不对你感兴趣不被你吸引，你应该接受你们俩不会发展成恋人这一事实。另外，如果和她在一起意味着你不得不放弃和其他性感又觉得你是她们菜而不是她们朋友的美女的交往机会，你也许应该多分出时间，去把握这个比例。
+        还有一个可能的事实是，你从她的生活中离开一段时间，她认识到了她究竟失去了什么，她决定去追逐你。当然，不要指望光坐在那里这个好事就会发生。出去，去找一个立马就知道你对于她是多么重要的女人，然后，把你和你新欢的照片上传到朋友圈，秀给她她失去了什么。不要把你的生命浪费在没有意义的，指望她与本性对抗，突然对你产生好感的空想中。因为这游戏就不是这么玩的。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe5\x8f\x8b\xe8\xb0\x8a\xe5\x8c\xba', '\xe5\x8e\x9f\xe5\x9b\xa0', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3', '\xe5\xae\x9e\xe6\x93\x8d', '\xe6\x8a\x80\xe5\xb7\xa7']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new594.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new594.txt
+title 国行三星note7都爆炸了，你为什么还是没有女朋友
+url http://www.puahome.com/bbs/pua-101280-1-1.html
+text 
+    1.习惯单身状态，不注重自身形象，让女人觉得是个邋遢不讲究的男人
+    2.所处环境接触女性机会太少，选择太少
+    3.主动意识太差，不踏出第一步去认识更多的女生
+    4.太过内向，不善言辞，对不熟悉的人话不多，书呆子气，难沟通，学历高说话难懂难沟通等等，都是一个个阻碍你脱离单身的坎。就是这些问题堵在这里，以至于你根本就不可能去认识和发展两性的关系，不懂如何去表达自己的心意，更别谈能找到适合自己的女朋友。
+    5.敏感度太低，不能很好的判断感情的发展阶段，也不能很好的把握时间突破朋友关系，发展成恋人。
+    6.没有主见，不能给女生安全感
+    7.不懂的怎么处理两性相处氛围，不懂得营造气氛
+    8.不懂幽默，经常冷场
+    9.对女朋友要求太高
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe5\x8e\x9f\xe5\x9b\xa0']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new1200.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new1200.txt
+title 恋爱技巧：双十一摆脱单身狗的秘密，没有女朋友的进!
+url http://www.puahome.com/bbs/pua-110813-1-1.html
+text 
+　　对于追求女生，只要让她觉得你很有趣、很幽默、很与众不同，她就会不由自主地想靠近你。比如，你可以这样做：
+　　1.学会创造属于自己的价值，而自身的价值主要通过涵养和行动表现出来。
+　　2.学会淡定、从容，这是男人成熟的标志。如果你过于情绪化，并且难以控制情绪，那么女人就会认为你是个无法承担不会包容理解的人，不能托付。
+　　3.不要害怕拒绝。遇到一个让自己心动的女孩是不容易的，如果因为害怕失败而放弃追求的机会，因为结果还没到来之前就否定自己，连追求爱的勇气都没有，那样是不可能追到女孩的。
+　　4.不要在意他人的眼光，追一个女孩子没什么丢人的，失败也好过怂货
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe6\x80\x8e\xe4\xb9\x88\xe8\xa7\xa3\xe5\x86\xb3']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new2.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new2.txt
+title 陌陌交女朋友守则
+url http://nvyou.puahome.com/4794
+text 
+1、 准备工作。
+    1.1头像、相册设置
+        要点：多样化，差异化。
+        头像和相册非常重要。基本上是高分女筛选的第一步。90%的男屌丝会挂在这一步。所以：如果你是男屌丝，请远离陌陌。
+        相册应该具备几个因素：
+        A、正面没P过的头像。
+        无论是女屌丝，还是白富美谁约会，对外表都会有要求，如果你长的不帅，可以个性。如果你没个性，可以可爱。如果你不可爱，那要性感。如果不性感，那要艺术。如果什么都没有，那就讲究角度、光线的配合。
+        整体感觉，要在6分以上。这个是基础。
+        B、体现你生活品质的图片。
+        可以是旅游的，做活动的，你豪华装修的房间的，车的，去高档餐厅吃饭的等等。如果确实你生活在水深火热中，那就体现你生命的精彩。要和众屌丝区别开来。
+        C、体现你与众不同的图片
+        你拥有的与众不同的特质，比如表演的照片、比赛的照片、展示厨艺的照片、你工作环境的照片（GOOGLE的高档办公室、红酒酒窖、DJ台、高端西餐厅、做电视节目等）
+        你的生活精彩而且与众不同，你能给你的朋友带去独一无二的体验。
+        D、预选
+        当你本身条件给人感觉一般，需要加入强烈预选。你和不同美女的合照会帮助你显得更性感。你总是人群里的焦点，美女都愿意和你在一起。
+        E、你根本不用放8张照片
+        放3~4张照片，更能显示你的低调。
+    1.2签名设置
+        签名设置体现以下内容均可：
+        A、你生活很精彩同时你很热爱
+        B、你有一定的可得性
+        C、与众不同
+        D、真实不装B
+        E、没有任何负面情绪
+    1.3基本信息设置
+        基本信息体现营造安全感。请尽量保证真实。同时是你展示你的高价值的关键。
+        其中比较关键的几条是：
+        A、兴趣爱好，有趣，丰富。
+        B、长出没的地方：体现你生活品质的关键点，注意，千万不要是宅男
+        C、个人说明：你最真实的说明，带些特色，可以自嘲
+         
+2、 开场
+    2.1万能开场
+        A、看你比较友善，所以跟你打个招呼。
+        B、表情包开场
+        C、刚看到你的名字  
+    2.2唯一性开场
+        A、针对头像和相册的开场  
+        B、针对签名的开场，对目标的签名发表看法。
+3、 聊天内容
+    3.1安全感内容
+        主要围绕：你是谁、你是干嘛的。制造安全感。
+    3.2差异化内容
+        主要体现：你的独特特质。筛选
+4、 邀约
+    4.1邀约方式：直接、真诚、有趣。
+    4.2约会形式：溜达溜达，看电影去，喝个咖啡，找个地方坐坐
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x90\xad\xe8\xae\xaa', '\xe8\x81\x8a\xe5\xa4\xa9', '\xe8\x87\xaa\xe6\x88\x91\xe5\xbb\xba\xe8\xae\xbe', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new118.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new118.txt
+title 屌丝没有资格找女票
+url http://www.puahome.com/bbs/pua-98632-1-1.html
+text 
+    为什么你没有女朋友？因为你条件不过硬，又不想付出，只想经济泡妞，完事还不想负责任。
+    先把自己搞好再找女朋友吧，免得人财两空
+  
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe5\x8e\x9f\xe5\x9b\xa0']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new297.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new297.txt
+title 她是“女朋友”，还是女“朋友”？（转）
+url http://www.puahome.com/bbs/pua-53146-1-1.html
+text 
+如何让喜欢的人从朋友变成女朋友？
+不要做烂好人，真爱会错失。即使女孩是喜欢你的。而你却表现得像个需求感很强却又很胆小的懦夫。
+你追了她很久，还想继续追下去，是不是觉得只要继续追下去，她总有一天会突然醒悟，然后被你吸引爱上你，跟你在一起？好吧，扪心自问一下，就因为你一直在追她而且告诉她你的感受，她就会被你吸引吗？
+她之所以跟你说虽然你们现在很好，但是还不想和你发展，她也不知道为什么会这样的原因是她感觉不到，她感觉不到你的吸！引！力！但是光是靠追她跟她告白就能创造你的吸引力吗？明显不可能。
+吸引不是选择。你跟其他男人差不多，觉得只要继续追她，她总有一天会被我感动，然后跟我在一起。你最多获得感动，但那并不是吸引，不是爱情。如果有一天有一个有吸引力的男人出现在她的面前，她很可能会抛了你。
+你需要先认清楚这一点，改变自己的价值观，知道爱绝不是求来的！之后，你最需要的就是学习如何创造吸引力，那是能改善你目前状况的最佳方法。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe5\xa4\x87\xe8\x83\x8e', '\xe5\x8e\x9f\xe5\x9b\xa0', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3', '\xe6\x8a\x80\xe5\xb7\xa7']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new540.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new540.txt
+title 你为什么没有女朋友，那是因为你不会和女生聊天！
+url http://www.puahome.com/bbs/pua-105854-1-1.html
+text 
+　　和女的聊天话题1.喜欢吃什么?(美食)
+　　一般说起美食话题，女孩子都有说不完的话，如果她有拿手的菜，这时候你不妨夸一下，夸人特别受用!然后就直接进入主题，说，听得你都流口水了，哪天让我一饱口福下!如果你自己也有拿手的，也不妨邀请她品尝你的手艺，现在大多数女生对会做饭的男孩比较感兴趣!
+　　和女的聊天话题2.兴趣爱好
+　　兴趣爱好也是个好话题!喜欢唱歌?喜欢听什么歌曲，喜欢运动么?喜欢看电影么?这些都必须问，不然你不知道她的兴趣爱好，如何进行下一步?再说：她也希望通过自己的兴趣爱好来展示自己，一举多得的事，何乐而不为呢?
+　　和女的聊天话题3.工作状况
+　　可以问问她现阶段的工作状况?今后有啥打算?你可以赞赏个她的工作态度、工作能力、抗压能力，生活态度，或者你可以帮她分析一波，谈谈你的看法，如果她反应比较冷淡，那么你就转移话题。不管出现那种情况，你都有一个恭维她的机会
+　　和女的聊天话题4.旅游经历
+　　可以问问她以前去过哪些名胜古迹，在哪里旅游度假?哪次旅游让你比较深刻的?这样的问题女生应该非常乐于回答，也不会有什么不妥，如果你去过自然可以聊一波，没去过也不要紧，然后让她介绍一下，这时候你只要做一个忠实的听众就行了，她很快就会对你产生好感，恭喜你，距离又进了一步，然后再加把火，问她还想去什么地方，如果她说某某地方她一直想去，那么机会来了，勇敢的说，我也一直想去那，不如哪天我们一块去?一般的结果是，她会答应的!而且是那种愉快的接受邀请!
+　　和女的聊天话题5.身边的朋友
+　　可以和她聊聊她身边的朋友，一般的女生都会很乐意的去谈谈她这个朋友怎么怎么样，那个朋友怎么怎么样?有可能说到跟某个朋友关系比较好，但这时候你千万不要表现很醋意，毕竟人家关系比你要好，你只要认可她说的就行，又或者她说的你一点都没兴趣，千万不要不耐烦，这可是你了解她的大好时机 如果想和她继续发展，了解她的朋友是非常重要的一步
+　　和女的聊天话题6.理想
+　　你可以说说自己的理想，也可以问问她的理想 这是一个非常有趣的话题，但是需要注意的是，你别抢着话题不放，要多让她说话，她说的越高兴你就越有希望。谈自己的理想时，也不要太肤浅，让她觉得你没有上进心
+　　和女的聊天话题7.可以尝试约了
+　　如果你们谈的不错，她非常开心，看你的眼神也是放光的那种，距离也越来越近了，这时候你要在不经意间法强邀请，但也不要操之过急，有可能会吓到她，但是也不要担心，如果她高兴，就会乐于和你在一起，不会轻易拒绝你的
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x81\x8b\xe7\x88\xb1', '\xe6\x90\xad\xe8\xae\xaa', '\xe8\x81\x8a\xe5\xa4\xa9', '\xe5\xae\x9e\xe6\x93\x8d', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new55.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new55.txt
+title 怎么追女朋友
+url http://nvyou.puahome.com/4893
+text 
+怎么追女朋友？
+一、如何从朋友变成恋人
+你们已经成为了朋友，想约她逛街、吃饭或是看电影，却不知道该带点什么给她？送花是一个好选择。但是送花也有讲究，不要过于煞有介事。自然一些，约会可以带一朵玫瑰花或者百合花，最好是根据她的气质来选择花的种类，细心一点的话，花语也可以稍加注意。
+吃饭时候，地点、口味、周围环境的选择一定要慎重些，等几次约会，彼此也有一定了解后，也可以挑选些两人份的食物，这样吃起来两人会倍感亲切。若是你们可以彼此不顾在对方面前的形象狼吞虎咽的话，恭喜你，你们已经不再是普通朋友，可以晋级情侣！
+二、多制造机会，步步深入她的内心
+事实上，女人都是挑细节的。她们非常看帮忙拿外套、包包，主动移椅子这些小动作，但男人们总是粗心大意忽略掉，就错过了很多增进感情的机会。
+女朋友脱下外套，男生礼貌地上前接过外套，这样会让你们看起来很像情侣。    
+逛街的时候，男生主动帮女朋友拿包包，对她说：“你就轻轻松松逛街吧！”这样温心的话语很容易拉近你俩的距离。
+需要注意的是，体贴的动作一定要视具体情况而定，随机应变，否则很容易弄巧成拙。
+三、制造偶然相遇
+若是你对某个女朋友非常来电，一定想跟她认识看看，建议你先了解她上下班、上课放学的交通路线，经常跟她乘坐同一班公车，或是走一条路线，这总会让她注意到你。这样的偶遇很容易让妹子对你产生兴趣，开始幻想，对你产生好奇：你是在哪里工作的，也住在这附近吗?怎么经常看到在一辆车上，连回家的路都差不多。此外，你还可以了解一下她的喜好，根据她的喜好来适当对自己进行一些改变，因此一定要细致观察，多方打探。
+四、什么样的礼物才是她喜欢的呢？
+若是你的她喜欢些精致的小玩意，可以多送些小饰品、手工艺品等等，一定要别出心裁；若是她喜欢比较大的东西，大可以送她包装大方花朵较大的花束，也可以送些比较大的玩偶，她一定会喜欢的。
+五、适当时机增加身体接触
+触碰女性的身体更能拉近与她的距离，更能增进你俩的感情。
+该怎样在触碰妹子们时不留痕迹？这很有技巧性。一着不慎满盘皆输，被大骂色狼都有可能！建议这样的接触用缓慢的步骤升级。刚开始，你可以触碰到她的膝盖或者小手，那就非常不错了，若是第一次碰面，千万要约束自己的行为。若是在茶餐厅、咖啡厅之类的地方约会，尽可能选择那些并排坐的位置把！这样就可以制造更多接触的机会；若是你俩面对面坐着，那触碰的机会自然就少了，即使主动去接触，也会显得很不自然。
+六、吻到她的捷径
+首先将她尽可能靠在墙边或是空间狭小的地方，这样可以让她无法逃脱，同时她自己也可以为自己找个合理的理由——我跑不掉嘛！
+即使你强吻，她从心理上也会说服自己屈服你，这在心理学上被称为“逆向合理化”。
+小提示：约会时最好选择有台阶的餐厅、咖啡厅，这样可以更容易接近她，并且不着痕迹。
+七、绝对不能过分屈服于女人的话语和态度
+每个女人都是善变的，她们可爱，同时也非常恐怖。女人不同于男性，她们通常是具有两面性的，外表看起来柔弱、温顺，内心却固执、刚烈。对于把妹菜鸟们来说，很容易就被这种女朋友征服，屈服在妹子们的话语和态度之下。
+送你们一句话，过于顺服的男人，女人可能会收为长期饭票，但必定永远看不起。
+八、把到感性、知性的妹子的技巧
+大体上，可以把女人分为两类：第一类极度迷恋赞美与夸耀，那些把自己捧上天的男性就是她们的理想对象；第二类女人心高气傲，习惯了赞美，挖苦讽刺反而更引起她们注意。如果不确定，可以小程度的试探
+九、不妨偶尔向她撒个娇
+看准时机撒个小娇，可爱一点，这样会很容易触动她的心房，很大程度上满足她的自尊心。
+男女之间相处时，特别是在朋友很多的情况下，一定不要跟她唱反调，这样对彼此都有好处，实在有事情可以私下解决，在外人面前，首先是要表现出温柔体贴。
+需要注意的是，刻意去做些温柔的事情，是吃力不讨好的，保持平和的心态吧。
+时常对花草、小动物展露笑容，展现你的亲近感，会让女人感到你是一个有爱心的可爱男人。这样的男人特别能给女人安全感。
+十、一起看海和夕阳，是诱惑女性的必杀技
+吃完午饭，到海边走走，吹吹海风，看看夕阳，呼吸大海的浪涛，这样的氛围充满画面感，很容易使女性变得感性，浮想联翩，再强硬的女人心也会在幻想中变得柔软。这是最佳的“情话时刻”。因此，不要害怕尴尬，在女人心最柔软的时候，来一番情话轰炸吧！你俩都沉浸在夕阳之下，大海之边，漫步沙滩，耳语缠绵，感情自然更进一步了。
+十一、给予她梦想
+实际上，当女朋友面对自己一直梦寐以求的男生时，心里就会莫名其妙冒出一股即使被骗也值得的劲头，这才是女人蠢的缘由。因此当她们面对自己心仪的、符合自己白马王子形象的男生时，女朋友大多会想搏一搏，说不定就此就找到自己的白马王子了呢。因此要在你俩交往时，适当满足她们的一部分梦想吧，这样你们会更加交心。
+十二、女人的耐心是有限的
+若是你俩约会时，你的女朋友偶然打了个小哈欠，很可能她不是没睡好，而是想提醒你下，自己对你已经没有太大兴趣了！
+你还要注意一些细节问题，像是她看了下手表或是手机上的时间，就很可能是她还有其他事情，抑或她不想跟你聊天了，想去别的地方逛逛或是回家。当你俩相对而坐时，你俩说话时她没有注视着你，而是随意地环顾四周，这时就明显显示她已经注意力不集中，有点厌倦你了。
+请一定记住，女人在和她理想的男人相处时候，通常会处于忘我状态，忽略周边的环境，眼中只有面前的这个心仪的男人。你们在约会期间，你一定要向她表现出自身的男子气概，男性魅力，这样会让她倍感安心，感觉跟你在一起更有安全感、更舒心。女朋友若是本身就对你没有什么好感，那一开始就很可能表现的不耐烦，这时你就可以视情况放弃了。
+十三、通过说话的方式观察女人
+通过说话的语速、语调来看女人，也是一种观察女人的技巧。说话语速声音变化较大的妹子，所说的话都是随着自己的心境而定的，毫无逻辑。兴奋时说的话自然比较快速而且分贝较高，当心境平和抑或生气时，她们的声音就相对沉缓些。说起话来像嘶叫般的妹子，男生们必须好好注意了，这种女朋友通常都爱嫉妒别人。音质比较低沉的女人，性格则通常比较偏男性化。
+十四、女性通常会被男性的第一印象所吸引
+男性的第一印象非常重要！注意自己的外貌、衣着、姿态、谈吐等等，很多人因为不注重第一印象就死在了这上面，之前的努力全白费了。
+
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe6\x8a\x80\xe5\xb7\xa7', '\xe5\xa6\x82\xe4\xbd\x95\xe8\xa7\xa3\xe5\x86\xb3']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new123.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new123.txt
+title 你没有女朋友，是因为你懒
+url http://www.puahome.com/bbs/pua-91803-1-1.html
+text 
+因为你懒！
+tags ['\xe7\x94\xb7', '\xe8\xbf\xbd\xe6\xb1\x82', '\xe5\x8e\x9f\xe5\x9b\xa0']
+classes 为什么我没有女朋友
+a_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new257.txt
+path /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/article/为什么我没有女朋友/new257.txt
+CLASSES
+c_id 女生喜欢你的表现
+href item
+title 女生喜欢你的表现
+c_id 如何追到喜欢的妹子
+href item
+title 如何追到喜欢的妹子
+c_id 为什么我没有女朋友
+href item
+title 为什么我没有女朋友
+ITEMS
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你懒，懒得相处，懒得改变，懒得迈出第一步
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/10.txt
+href []
+text 假的text：搜索“如何搭讪”尝试解决问题
+
+title 因为你总是在意周围人的看法，总要征求周围人的意见才敢上前
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/3.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你总是和身边的女生变成哥们
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/23.txt
+href []
+text 假的text：搜索“自身建设”尝试解决问题
+
+title 因为你的头像和朋友圈太蠢，让女孩子觉得此人毫无特点
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/4.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你不懂得处理两性相处的气氛
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/30.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你太不懂女生的心思，简称“钢铁直男”
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/14.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你不会和女生聊天
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/1.txt
+href []
+text 当一个人潜意识里习惯了单身状态的时候，他便会对自己各方面的要求会降低很多，变得没有追求，凡事随随便便。这种人就会缺乏掉外在魅力，其中就包括自身形象，你可能会觉得穿太好都没人看，又没有女朋友，怎么方便怎么穿就好了，不用怎么注意形象。然而，正是因为你有这种想法，久而久之，给别的女人的印象就是个不讲究的男人。
+title 因为你太宅了
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/7.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你没有遇到你真的喜欢的人
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/24.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你懒，懒得相处，懒得改变，懒得迈出第一步
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/11.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为差一点的你看不上，好一点的你追不着
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/22.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你习惯性自暴自弃，害怕失败，所以宁可不努力
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/20.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 你以为两情相悦是可以勉强来的
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/21.txt
+href []
+text 假的text：搜索“备胎”
+title 因为你太容易对喜欢的女生唯命是从，最终沦为备胎
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/13.txt
+href []
+text 假的text：搜索“自我建设”
+
+title 因为你太不修边幅了
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/9.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你不够自信，和女生相处中畏畏缩缩
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/16.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你所处的环境女生太少，选择太少 （苦逼的IT男和工科男）
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/27.txt
+href []
+text 假的text：搜索“开场白”尝试解决问题
+
+title 因为你总是害怕被拒绝，连第一步都难以踏出
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/2.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你太胖了
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/8.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你不够注重你给女生留下的第一印象
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/25.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你不懂得浪漫
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/12.txt
+href []
+text 假的text：性格内向，不善言辞，对不熟悉的人话不多，书呆子气，难沟通，学历高说话难懂难沟通等等，都是一个个阻碍你脱离单身的坎。就是这些问题堵在这里，以至于你根本就不可能去认识和发展两性的关系，不懂如何去表达自己的心意，更别谈能找到适合自己的女朋友。
+title 因为你太内向了
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/29.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你自己都觉得自己是屌丝
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/15.txt
+href []
+text 假的text：搜索“朋友圈 自我建设”尝试解决问题
+
+
+title 因为你的朋友圈转发太多，并且言论激烈，太过负面，让女孩子觉得你太过愤青
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/5.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你自己都觉得自己是屌丝
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/18.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你不懂得放弃
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/26.txt
+href []
+text 假的text：搜索“朋友圈 自我建设”尝试解决问题
+
+title 因为你朋友圈照片太丑
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/6.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 社交敏感度太低，不能正确判断两人感情进展，导致错过正确时机
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/31.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你习惯性自暴自弃，害怕失败，所以宁可不努力
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/17.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+title 因为你太不主动去认识女生了
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/28.txt
+href []
+text 假的text：搜索“聊天话题尝试解决问题”
+
+title 因为你不够自信，和女生相处中畏畏缩缩
+class 为什么我没有女朋友
+i_id /home/linxinyi/QASYSTEM/myapp/lucene_searcher/corpus/newdata/pool/为什么我没有女朋友/19.txt

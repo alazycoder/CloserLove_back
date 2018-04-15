@@ -1,0 +1,95 @@
+stdout:{
+    'status': 200/404,
+    'body': {
+        'type':'list'/'article',
+        'content':[ #200 & list 说明是展示在对话框里的
+            {
+                'title':String,
+                'ref':{}#点击这项之后，把这个ref的请求作为data块发给后端就好，也就是说这个ref就相当于一次新的请求格式，返回的时候应该要设置好
+            },...
+        ] or { # 200 & article
+            # 如果type＝article的话，那么就是跳转文章页面
+            'title':String,
+            'text':String,
+            # 其他之后再说吧，先不做reference了，也就是说不做再跳转先，把主要工作先完善
+        }
+    }
+}
+
+stdin:
+{
+    'type',
+    'params':{
+        'id',
+        'user_info':{'gender'} # user_info 只有query需要
+        }
+}
+python stdin:
+{
+    'type':
+    'params':{
+        # type = 'query'
+        'text',
+        'user_info':{'gender'}
+    }
+}
+python stdout:
+{
+    'status':200, 
+    'type':'item', #
+    'content':{
+        'title':'根据query返回文章啦！',
+        'items':[
+            {'title','ref':{'type','params':{'id'}}}
+        ]
+    }
+}
+{
+    'status':404,
+    'content':{
+        'err_msg'
+    }
+}
+js stdout:
+success:
+{
+    'type':'item'/'article',
+    'content':{#python的type=items, then 把python的contents放到这就好了。
+        # item
+        'title',
+        'items':[
+            {
+                'title',
+                'ref':{
+                    'type',
+                    'params':{'id'}
+                }
+            }
+        ] 
+    } or {
+        # article
+        'title',
+        'text'
+        # 目前就这两个吧，其他先不展示
+    }
+}
+failure:
+{# python stdout content
+    'err_msg':String
+}
+
+
+
+result.append({'title':doc.get(TITLE).encode('utf-8'),'ref':{'type':'article','params':{'id':doc.get(AID)}}})
+
+
+
+
+
+# js ==> python : unicode
+# python ==> js : unicode
+# mongodb ==> utf-8
+
+
+
+# item和文章一样处理，也是一篇篇，href作为最后的推荐！！！只不过item属于是咱们专门整理过的，分好类的，属于某个库，article就是原文，作为query search。
